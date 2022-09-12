@@ -1,0 +1,4 @@
+http://localhost:8888/swagger-ui.html#   (Browser Url for Swagger)
+
+http://localhost:8888/fault/reports?fromDate=2020-07-01&reportType=MOR&toDate=2021-07-31 (PostMan URL to hit Api for report Generation)
+
